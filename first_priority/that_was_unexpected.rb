@@ -15,7 +15,7 @@ class Person
   end
 
   def likes_candy?
-    true
+    candy_lover
   end
 
   def ballin_candy_lover?
